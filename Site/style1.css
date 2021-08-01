@@ -1,0 +1,46 @@
+body {
+    width: 100%;
+	height: 100%;
+	margin: 0;
+	font-family: Century Gothic;
+}
+
+#bg {
+	background-image: url(images/valide.jpg);
+	position: fixed;
+	z-index: -5;
+	top:0;
+	right:0;
+	left:0;
+	bottom:0;
+	height:100vh;
+	width:100vw;
+}
+
+h1 {
+	
+	font-size: 4vmin;
+	background-color: #0B536E ;
+	width: 100%;
+	height: 10%;
+	color: white;
+	text-align: center;
+	align-content: center;
+	display: flex;
+}
+
+#diapo {
+	font-size: 3vmin;
+	background-color: #0B536E ;
+	width: 15%;
+	height: 18%;
+	color: white;
+	margin-left: 42.5%;
+	margin-top: 10%;
+	padding-top: 6%;
+	border-radius: 100%;
+	justify-content: center;
+	align-self: center;
+	display: flex;
+	text-decoration: none;
+}
